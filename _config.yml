@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sanjay Sri Vallabh Singapuram"
 title_separator          : "-"
-name                     : &name "ಸಿಂಗಪುರಂ சஞ்சய் श्री వల్లభ్"
+name                     : &name "Your name"
 description              : &description "2nd year Ph.D. student"
 url                      : https://singam-sanjay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "ಸಿಂಗಪುರಂ சஞ்சய் श्री వల్లభ్"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "2nd year Ph.D. student, Computer Science"
+  location         : "Ann Arbor"
+  employer         : "University of Michigan"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
